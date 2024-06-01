@@ -1,6 +1,6 @@
 # Module 11 Challenge - beautifulsoup-challenge
+
 UWA Data Analytics Bootcamp Module 11 Challenge in Python - Beautiful Soup
----
 
 **Due**: Thursday by 23:59  
 **Points**: 100  
